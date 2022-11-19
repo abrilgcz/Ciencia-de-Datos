@@ -7,3 +7,6 @@ Detalladamente se cuenta con lo siguientes archivos y directorios.
 3. ProyectoASE.ipynb: Código principal del proyecto. Incluye limpieza, agrupamiento y orden de las bases de delitos, poblaciones, cálculo de tasas de incidencia delictiva. Análisis detallado de delitos seleccionados: Robo, Feminicidio, Narcomenudeo, Extorsión, Homicidio, Violencia familiar y Abuso sexual.
 Contiene de igual manera el cálculo de correlaciones de cada uno.
 4. modeloarima_delitos.R: Código que hace la predicción del futuro inmeadito de los delitos usando modelo ARIMA.
+
+Versión final de repositorio realizada:
+18 de Noviembre 2022, 20:00 hrs.
