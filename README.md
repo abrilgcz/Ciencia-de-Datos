@@ -1,4 +1,7 @@
 # Ciencia-de-Datos
+Versión final de repositorio realizada:
+18 de Noviembre 2022, 20:19 hrs.
+
 En este repositorio se encuentran los archivos con el desarrollo del proyecto sobre Incidencia Delictiva en México de los años 2015 a 2021.
 
 Detalladamente se cuenta con lo siguientes archivos y directorios.
@@ -8,5 +11,3 @@ Detalladamente se cuenta con lo siguientes archivos y directorios.
 Contiene de igual manera el cálculo de correlaciones de cada uno.
 4. modeloarima_delitos.R: Código que hace la predicción del futuro inmeadito de los delitos usando modelo ARIMA.
 
-Versión final de repositorio realizada:
-18 de Noviembre 2022, 20:00 hrs.
